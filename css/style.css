@@ -12,9 +12,13 @@
     padding: 10px;
 }
 
+
+
 .spazio-10 {
-    padding: 10px 0 0 10px;
+    /* padding: top right bottom left; */
+    padding: 10px 0 10px 0;
 }
+
 
 .py-10 {
     padding-top: 10px;
@@ -42,4 +46,29 @@
 
 .px-10 {
     padding-right: 100px;
+}
+
+.quadrato2 {
+    background-color: azure;
+    width: 200px;
+    display: block;
+    height: 200px;
+    border: gray 2px solid;
+    box-shadow: 0 4px 4px red;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.header {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.paragrafo {
+    padding: 10px;
+}
+
+.pulsante {
+    text-decoration: none;
 }
