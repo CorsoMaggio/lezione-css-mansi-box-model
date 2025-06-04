@@ -1,0 +1,45 @@
+.titolo-h1 {
+    font-size: 16px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.spazio-sopra {
+    padding-top: 10px;
+}
+
+.spazio-10 {
+    padding: 10px;
+}
+
+.spazio-10 {
+    padding: 10px 0 0 10px;
+}
+
+.py-10 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.px-10 {
+    padding-left: 10px;
+    padding-right: 10px !important;
+}
+
+.m-10 {
+    margin: 10px
+}
+
+.quadrato {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+.border-10 {
+    border: 2px dotted black;
+}
+
+.px-10 {
+    padding-right: 100px;
+}
